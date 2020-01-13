@@ -1,5 +1,5 @@
 class veri_bilimci():
-    print("bu bir sınıftır.")
+    print("bu bir sÄ±nÄ±ftÄ±r.")
     bolum = ""
     deneyim_yili = 0
     sql = "Evet"
@@ -7,7 +7,7 @@ class veri_bilimci():
     
     #Orneklendirme
     
-veri_bilimci.sql = "Hayır"
+veri_bilimci.sql = "HayÄ±r"
 
 veri_bilimci.sql
 
@@ -22,7 +22,7 @@ ali.bildigi_diller.append("python")
 ali.bildigi_diller
 
 # =============================================================================
-# # örnek özellikleri 
+# # Ã¶rnek Ã¶zellikleri 
 # =============================================================================
 
 class veri_bilimci():
@@ -42,7 +42,7 @@ veli.bildigi_diller.append("python")
 
 veli.bildigi_diller
 
-# Ornek metodları
+# Ornek metodlarÄ±
 
 
 class veri_bilimci():

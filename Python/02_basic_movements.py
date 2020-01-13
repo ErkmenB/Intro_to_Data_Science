@@ -1,4 +1,4 @@
-#liste oluşturmak için genelde [] ve list fonk kullanılır.
+#liste oluÅŸturmak iÃ§in genelde [] ve list fonk kullanÄ±lÄ±r.
 
 liste = ["a","b","c"]
 
@@ -12,7 +12,7 @@ liste2 = ["a","b","c"]
 liste_tum = [liste1, liste2]
 
 
-#eleman işlemleri
+#eleman iÅŸlemleri
 
 fis = "ali uzaya git"
 
@@ -49,12 +49,12 @@ liste.insert(len(liste),"berkcan")
 liste
     
 # =============================================================================
-# # Tuple OLUŞTURMA
+# # Tuple OLUÅTURMA
 # =============================================================================
 
-#üstünde değişiklik yapilamaz
+#Ã¼stÃ¼nde deÄŸiÅŸiklik yapilamaz
 #
-#sözlükler
+#sÃ¶zlÃ¼kler
 
 sozluk = {"reg" : "regresyon modeli",
           "loj" : "lojistik regresyon",
@@ -90,7 +90,7 @@ sozluk
 
 
 # =============================================================================
-# #KÜMELER
+# #KÃœMELER
 # =============================================================================
 
 s = set()
@@ -105,9 +105,9 @@ ali = "ali lutfen ata bakmayi kes"
 
 s = set(ali)
 
-s #küme olacak şekilde bastı
+s #kÃ¼me olacak ÅŸekilde bastÄ±
 
-#değerleri çoklama durumunda tek basar
+#deÄŸerleri Ã§oklama durumunda tek basar
 
 
 set1 = set([4,6,8])
